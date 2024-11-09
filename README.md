@@ -215,6 +215,7 @@ Name           | Address
 [Grabscape game token](https://tonviewer.com/0:63eeea0856c9e0992f9ac8ecf59c710d8d99234ede665c1e2e19af3786672aab) | EQBj7uoIVsngmS-ayOz1nHENjZkjTt5mXB4uGa83hmcqq2wA
 [Grabscape governance token](https://tonviewer.com/0:f49edd96d58c0915d310f86231e2382e35bbdb8d2f9a337da3396ee14d0b39f2) | EQD0nt2W1YwJFdMQ-GIx4jguNbvbjS-aM32jOW7hTQs58lds
 [Gram](https://tonviewer.com/0:b8ef4f77a17e5785bd31ba4da50abd91852f2b8febee97ad6ee16d941f939198) | EQC47093oX5Xhb0xuk2lCr2RhS8rj-vul61u4W2UH5ORmG_O
+[HAMSTERBATYA](https://tonviewer.com/0:bf04bf1ca17f9f795c59fbf5c6154e9870170a780c6a1e25638a737fb750034d) | EQC_BL8coX-feVxZ-_XGFU6YcBcKeAxqHiVjinN_t1ADTUwr
 [HEDGE coin](https://tonviewer.com/0:6227c7526e9dff6006ff2ae0bae330ab16a413b056d479ee6d6f3af97a5fc710) | EQBiJ8dSbp3_YAb_KuC64zCrFqQTsFbUee5tbzr5el_HEDGE
 [Hamster Kombat](https://tonviewer.com/0:09f2e59dec406ab26a5259a45d7ff23ef11f3e5c7c21de0b0d2a1cbe52b76b3d) | EQAJ8uWd7EBqsmpSWaRdf_I-8R8-XHwh3gsNKhy-UrdrPcUo
 [Hasbulla](https://tonviewer.com/0:296b467923494c7a2b524d4b72b5c7b9679cb861a9398c1c12f02c39dcfd436a) | EQApa0Z5I0lMeitSTUtytce5Z5y4Yak5jBwS8Cw53P1Davtw
